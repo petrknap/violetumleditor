@@ -7,7 +7,11 @@ The editor needs [Java's JRE] and the run script is tested for [Ubuntu 14] and [
 
 
 ## How to install and run Violet UML Editor
-
+ * Via ZIP:
+  * download [ZIP archive]
+  * extract it
+  * run `./run.bat`
+ * Via Git:
   * clone this repository
   * checkout to branch `master`
   * run `./run.bat`
@@ -21,3 +25,4 @@ for example make shortcut to `~/Violet/run.bat ~/Violet` or `D:\Violet\run.bat D
 [Java's JRE]:http://java.com/en/
 [Ubuntu 14]:http://www.ubuntu.com/desktop
 [Windows 10]:https://www.microsoft.com/en-us/windows
+[ZIP archive]:https://github.com/petrknap/violetumleditor/archive/master.zip
