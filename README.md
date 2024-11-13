@@ -3,7 +3,7 @@
 Welcome,
 
 this repository contains compiled [Violet UML Editor] with icon and [universal run script] for Windows, OS X and Linux.
-The editor needs [Java's JRE] and the run script is **tested for [Ubuntu 16], [OS X 10.11] and [Windows 10]**.
+The editor needs [Java's JRE] and the run script is **tested for [Ubuntu 24], [OS X 10.11] and [Windows 10]**.
 
 
 ## How to install and run Violet UML Editor
@@ -13,7 +13,7 @@ The editor needs [Java's JRE] and the run script is **tested for [Ubuntu 16], [O
   * run `./run.bat`
  * Via Git:
   * clone this repository
-  * checkout to branch `master`
+  * checkout to branch `main`
   * run `./run.bat`
 
 If you wish to use desktop shortcut, specify repository folder as first parameter for run script,
